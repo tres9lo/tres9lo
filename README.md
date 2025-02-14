@@ -11,6 +11,9 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 - **Mobile Development:**  
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -18,11 +21,31 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 - **Backend:**  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 - **Other Tools:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 Language & Framework Proficiency
+
+| **Language/Framework**   | **Proficiency**                    |
+| ------------------------ | ----------------------------------- |
+| HTML & CSS               | ![85%](https://progress-bar.dev/85) |
+| JavaScript               | ![80%](https://progress-bar.dev/80) |
+| Tailwind CSS             | ![75%](https://progress-bar.dev/75) |
+| React                    | ![70%](https://progress-bar.dev/70) |
+| Next.js                  | ![65%](https://progress-bar.dev/65) |
+| Vue.js                   | ![60%](https://progress-bar.dev/60) |
+| PHP                      | ![80%](https://progress-bar.dev/80) |
+| Laravel                  | ![70%](https://progress-bar.dev/70) |
+| Dart                     | ![65%](https://progress-bar.dev/65) |
+| Kotlin                   | ![60%](https://progress-bar.dev/60) |
+| Express.js               | ![70%](https://progress-bar.dev/70) |
 
 ---
 
