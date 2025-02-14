@@ -35,17 +35,17 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 | **Language/Framework**   | **Proficiency**                    |
 | ------------------------ | ----------------------------------- |
-| HTML & CSS               | ![85%](https://progress-bar.dev/85) |
-| JavaScript               | ![80%](https://progress-bar.dev/80) |
-| Tailwind CSS             | ![75%](https://progress-bar.dev/75) |
-| React                    | ![70%](https://progress-bar.dev/70) |
-| Next.js                  | ![65%](https://progress-bar.dev/65) |
-| Vue.js                   | ![60%](https://progress-bar.dev/60) |
-| PHP                      | ![80%](https://progress-bar.dev/80) |
-| Laravel                  | ![70%](https://progress-bar.dev/70) |
-| Dart                     | ![65%](https://progress-bar.dev/65) |
-| Kotlin                   | ![60%](https://progress-bar.dev/60) |
-| Express.js               | ![70%](https://progress-bar.dev/70) |
+| HTML & CSS               | ██████████ 85%                      |
+| JavaScript               | █████████ 80%                       |
+| Tailwind CSS             | ████████ 75%                        |
+| React                    | ███████ 70%                         |
+| Next.js                  | ██████ 65%                          |
+| Vue.js                   | ██████ 60%                          |
+| PHP                      | █████████ 80%                       |
+| Laravel                  | ███████ 70%                         |
+| Dart                     | ██████ 65%                          |
+| Kotlin                   | █████ 60%                           |
+| Express.js               | ███████ 70%                         |
 
 ---
 
