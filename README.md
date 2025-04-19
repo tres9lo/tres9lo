@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [99-DEV]!
+# 👋 Hello, I'm 99-DEV!
 
 I'm a passionate **Full-Stack Developer** with expertise in building scalable web and mobile applications. I specialize in creating seamless user experiences using modern technologies across multiple languages and frameworks.
 
@@ -53,13 +53,13 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable we
 
 Here are some of the projects I've worked on:
 
-- **[Project1](https://github.com/tres9lo/)**  
+- **[Project Alpha](https://github.com/tres9lo/)**  
   A full-stack web app built with JavaScript, Tailwind CSS, and PHP.
 
-- **[Project2](https://github.com/tres9lo/)**  
+- **[Project Beta](https://github.com/tres9lo/)**  
   A mobile app developed using Kotlin and Dart with a focus on performance and user experience.
 
-- **[Project3](https://github.com/tres9lo/)**  
+- **[Project Delta](https://github.com/tres9lo/)**  
   A dynamic landing page built with HTML, CSS, and JavaScript.
 
 ---
@@ -73,9 +73,9 @@ I'm currently diving deeper into **Flutter** for cross-platform development and 
 ## 📫 Let's Connect
 
 - **GitHub:** [tres9lo](https://github.com/tres9lo)
-- **LinkedIn:** [99-DEV](https://www.linkedin.com/in/99-DEV)
+- **LinkedIn:** [99-DEV](https://www.linkedin.com/in/Tresor-DevBiko)
 - **Twitter:** [Treslo_99](https://twitter.com/Treslo_99)
-- **Portfolio:** [Emloops](https://emloops.vercel.app)
+- **Portfolio:** [Emloops](https://tresor-dev.vercel.app)
 
 - **99-DEVELOPER INC.**
 [Admission](https://forms.gle/JQ4nPfv9mGDb4RVs9)
