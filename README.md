@@ -75,7 +75,7 @@ I'm currently diving deeper into **Flutter** for cross-platform development and 
 - **GitHub:** [tres9lo](https://github.com/tres9lo)
 - **LinkedIn:** [99-DEV](https://www.linkedin.com/in/Tresor-DevBiko)
 - **Twitter:** [Treslo_99](https://twitter.com/Treslo_99)
-- **Portfolio:** [Emloops](https://tresor-dev.vercel.app)
+- **Portfolio:** [Tresor-dev](https://tresor-dev.vercel.app)
 
 - **99-DEVELOPER INC.**
 [Admission](https://forms.gle/JQ4nPfv9mGDb4RVs9)
