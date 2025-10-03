@@ -1,83 +1,69 @@
-# 👋Walk with me!, I'm 99-DEV!
+<!-- Professional README for BIKORIMANA Tresor -->
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable web and mobile applications. I specialize in creating seamless user experiences using modern technologies across multiple languages and frameworks.
+<h1 align="center">Hi 👋, I'm BIKORIMANA Tresor</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Rwanda-1e90ff?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-tresor--dev.vercel.app-green?style=flat-square&logo=vercel" />
+</p>
 
----
-
-## 🛠️ Technologies & Tools
-
-- **Frontend:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-- **Mobile Development:**  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-- **Backend:**  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-- **Other Tools:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://tresor-dev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📈 Language & Framework Proficiency
+### 🚀 About Me
 
-| **Language/Framework**   | **Proficiency**                    |
-| ------------------------ | ----------------------------------- |
-| HTML & CSS               | ██████████ 85%                      |
-| JavaScript               | █████████ 80%                       |
-| Tailwind CSS             | ████████ 75%                        |
-| React                    | ███████ 70%                         |
-| Next.js                  | ██████ 65%                          |
-| Vue.js                   | ██████ 60%                          |
-| PHP                      | █████████ 80%                       |
-| Laravel                  | ███████ 70%                         |
-| Dart                     | ██████ 65%                          |
-| Kotlin                   | █████ 60%                           |
-| Express.js               | ███████ 70%                         |
+I'm a passionate software developer based in Rwanda, building modern web and mobile applications. I thrive on learning new tech, solving real-world problems, and collaborating with positive, driven teams.
 
 ---
 
-## 🚀 My Projects
+### 🛠️ Tech Stack
 
-Here are some of the projects I've worked on:
-
-- **[Project Alpha](https://github.com/tres9lo/)**  
-  A full-stack web app built with JavaScript, Tailwind CSS, and PHP.
-
-- **[Project Beta](https://github.com/tres9lo/)**  
-  A mobile app developed using Kotlin and Dart with a focus on performance and user experience.
-
-- **[Project Delta](https://github.com/tres9lo/)**  
-  A dynamic landing page built with HTML, CSS, and JavaScript.
-
----
-
-## 🌱 What I'm Learning
-
-I'm currently diving deeper into **Flutter** for cross-platform development and **Laravel** for building more robust backends. Always excited to learn new tools and frameworks!
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+### 📈 Skill Progress
 
-- **GitHub:** [tres9lo](https://github.com/tres9lo)
-- **LinkedIn:** [99-DEV](https://www.linkedin.com/in/Tresor-DevBiko)
-- **Twitter:** [Treslo_99](https://twitter.com/Treslo_99)
-- **Portfolio:** [Tresor-dev](https://tresor-dev.vercel.app)
+| Language / Framework | Progress |
+| --------------------- | -------- |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![90%](https://progress-bar.dev/90/?title=proficiency&width=200) |
+| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![80%](https://progress-bar.dev/80/?title=proficiency&width=200) |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![75%](https://progress-bar.dev/75/?title=proficiency&width=200) |
+| ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![85%](https://progress-bar.dev/85/?title=proficiency&width=200) |
+| ![VueJS](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | ![80%](https://progress-bar.dev/80/?title=proficiency&width=200) |
+| ![ExpressJS](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white) | ![80%](https://progress-bar.dev/80/?title=proficiency&width=200) |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) | ![70%](https://progress-bar.dev/70/?title=proficiency&width=200) |
 
-- **99-DEVELOPER INC.**
-[Admission](https://forms.gle/JQ4nPfv9mGDb4RVs9)
+---
 
-Feel free to reach out for collaboration or just a friendly chat. 😊
+### 🌐 Connect with Me
+
+- 📫 Email: [Find it on my portfolio!](https://tresor-dev.vercel.app)
+- 💼 [Portfolio](https://tresor-dev.vercel.app)
+- 🇷🇼 Rwanda
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tres9lo&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tres9lo&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</b>
+</p>
