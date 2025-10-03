@@ -37,14 +37,14 @@ I'm a passionate software developer based in Rwanda, building modern web and mob
 ### 📈 Skill Progress
 
 | Language / Framework | Progress |
-| --------------------- | -------- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![90%](https://progress-bar.dev/90/?title=proficiency&width=200) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![80%](https://progress-bar.dev/80/?title=proficiency&width=200) |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![75%](https://progress-bar.dev/75/?title=proficiency&width=200) |
-| ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![85%](https://progress-bar.dev/85/?title=proficiency&width=200) |
-| ![VueJS](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | ![80%](https://progress-bar.dev/80/?title=proficiency&width=200) |
-| ![ExpressJS](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white) | ![80%](https://progress-bar.dev/80/?title=proficiency&width=200) |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) | ![70%](https://progress-bar.dev/70/?title=proficiency&width=200) |
+|----------------------|----------|
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ 90% |
+| ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️ 80% |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️ 75% |
+| ![ReactJS](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ 85% |
+| ![VueJS](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️ 80% |
+| ![ExpressJS](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️ 80% |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) | 🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️ 70% |
 
 ---
 
