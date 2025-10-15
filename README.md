@@ -59,7 +59,8 @@ I'm a passionate software developer based in Rwanda, building modern web and mob
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tres9lo&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tres9lo&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=tres9lo&theme=radical" alt="GitHub Streak" />
+
 </p>
 
 ---
