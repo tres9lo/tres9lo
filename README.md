@@ -1,115 +1,130 @@
-<!-- Professional GitHub Profile for BIKORIMANA Tresor -->
-
-<h1 align="center">Hi, I'm BIKORIMANA Tresor 👋</h1>
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm BIKORIMANA Tresor</h1>
+<h3 align="center">Software Developer • Founder of Objective-Dev</h3>
+</div>
 
 <p align="center">
-  Software Developer • Full-Stack Engineer • Founder of Objective-Dev
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Rwanda-1e90ff?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Building%20Products-000000?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=tres9lo&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/tres9lo?label=Followers" />
 </p>
 
----
+<br/>
 
-## 🌐 Digital Presence
+<p align="center">
+	<a href="https://tresor-dev.vercel.app">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Founder+of+Objective-Dev;Building+Modern+Web+Systems;Based+in+Rwanda&center=true&width=420&height=45">
+	</a>
+</p>
+
+<hr>
+
+<pre>
+💻 Full Stack Developer focused on scalable web systems
+🏢 Founder of Objective-Dev (software company)
+🌍 Building real-world products and SaaS platforms
+🚀 Passionate about clean architecture & modern UI/UX
+⚡ Turning ideas into production-ready applications
+🤝 Open to collaboration and impactful projects
+</pre>
+
+<hr>
+
+<h3 align="center">🌐 Digital Presence</h3>
 
 <p align="center">
   <a href="https://tresor-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Personal Portfolio-tresor--dev.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-tresor--dev.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://objective-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Company-objective--dev.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Company-objective--dev.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_objectiv">
-    <img src="https://img.shields.io/badge/Instagram-@_objectiv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@_objectiv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-I’m a software developer focused on building **scalable web and mobile systems** with clean architecture and production-ready code.
-
-I run a software company called **Objective-Dev**, where we design and build modern digital products for the web.
-
-I enjoy:
-- Designing full-stack systems
-- Building real-world SaaS applications
-- Turning ideas into deployable products
-- Working with modern JavaScript ecosystems
-
----
-
-## 🏢 Company
-
-### Objective-Dev
-🌐 https://objective-dev.vercel.app  
-
-A software company focused on:
-- Web applications
-- SaaS systems
-- UI/UX engineering
-- API development
-
-📸 Instagram: @_objectiv
-
----
-
-## ⚙️ Tech Stack
-
-**Frontend**
-- React.js / Next.js
-- Tailwind CSS
-- Flutter (mobile UI)
-
-**Backend**
-- Node.js (Express)
-- PHP (Laravel basics)
-- REST APIs
-
-**Database**
-- MySQL
-- Supabase
-- MongoDB (learning/experimental use)
-
-**Tools**
-- Git & GitHub
-- Vercel
-- Postman
-- Docker (basic)
-
----
-
-## 📊 GitHub Analytics
-
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tres9lo&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=tres9lo&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-- Building production-ready full-stack apps
-- Scaling Objective-Dev projects
-- Improving system design skills
-- Open-source contributions
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ---
 
-## 📬 Contact
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-- Portfolio: https://tresor-dev.vercel.app  
-- Company: https://objective-dev.vercel.app  
-- Instagram: @_objectiv  
+---
+
+<h3 align="center">Cloud & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tres9lo&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tres9lo&theme=radical" />
+</p>
+
+---
+
+<h3 align="center">🚀 Focus Areas</h3>
+
+<pre>
+- Building scalable full-stack applications
+- Developing SaaS and startup products under Objective-Dev
+- Improving system design and architecture
+- Contributing to open-source projects
+</pre>
+
+---
+
+<h3 align="center">Connect with me</h3>
+
+<p align="center">
+  <a href="https://instagram.com/_objectiv">
+    <img src="https://img.shields.io/badge/Instagram-@_objectiv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tresor-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>“Build systems, not just features.”</i>
+  <b>“Build systems, not just features.”</b>
 </p>
