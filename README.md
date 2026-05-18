@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,12&height=280&section=header&text=BIKORIMANA%20Tresor&fontSize=50&fontAlignY=45&animation=fadeIn&desc=Founder%20of%20Objective-Dev%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descSize=20" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,12&height=280&section=header&text=BIKORIMANA%20Tresor&fontSize=50&fontAlignY=45&animation=fadeIn&desc=Founder%20of%20Objective-Dev%20•%20Full%20Stack%20Architect&descAlignY=60&descSize=20" alt="Header" width="100%"/>
 </div>
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tresor 
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tresor 👋
 </h1>
 
 <p align="center">
@@ -18,18 +18,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tres9lo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/tres9lo?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/tres9lo?label=Stars&style=for-the-badge" alt="Stars"/>
 </p>
 
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://tresor-dev.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00E6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Founder+of+Objective-Dev;Crafting+Scalable+SaaS+Platforms;Building+the+Future+from+Rwanda;Clean+Architecture+%26+Modern+UX;Turning+Ideas+into+Production+Reality" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00E6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+of+Objective-Dev;Crafting+Scalable+SaaS+Platforms;Building+the+Future+from+Rwanda;Clean+Architecture+%26+Modern+UX;Turning+Ideas+into+Production+Reality" alt="Typing SVG"/>
   </a>
 </p>
 
 <hr style="border: 2px solid #00E6FF; border-radius: 5px;"/>
 
-<!-- Bio Highlights -->
+<!-- Bio Cards -->
 <div align="center">
   <table>
     <tr>
@@ -67,7 +68,7 @@
 
 ---
 
-<!-- Skills -->
+<!-- Skills Section - Modern Icons -->
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
 **Languages**
@@ -106,30 +107,31 @@
 
 ---
 
-<!-- GitHub Stats - More Reliable Version -->
+<!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Analytics</h3>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tres9lo&theme=tokyonight&hide_border=true" height="195" alt="Tresor Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tres9lo&theme=tokyonight&hide_border=true" height="180" alt="Streak"/>
 </p>
+
 
 ---
 
 <!-- Focus Areas -->
 <h3 align="center">🚀 Current Focus</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Scalable%20Systems-FF6B6B?style=for-the-badge" alt="Systems"/>
   <img src="https://img.shields.io/badge/SaaS%20Products-4ECDC4?style=for-the-badge" alt="SaaS"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-45B8AC?style=for-the-badge" alt="Architecture"/>
   <img src="https://img.shields.io/badge/Modern%20UI%2FUX-96CEB4?style=for-the-badge" alt="UI/UX"/>
-  <img src="https://img.shields.io/badge/Open%20Source-FF9F1C?style=for-the-badge" alt="OSS"/>
-</p>
+  <img src="https://img.shields.io/badge/Open%20Source%20%26%20Collaboration-FF9F1C?style=for-the-badge" alt="OSS"/>
+</div>
 
 <br/>
 
 ---
 
+<!-- Quote -->
 <blockquote align="center">
   <p><strong>“Build systems, not just features.”</strong></p>
   <p>— BIKORIMANA Tresor</p>
@@ -142,5 +144,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,12&height=80&section=footer&text=Objective-Dev%20%E2%80%A2%20Kigali%2C%20Rwanda" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,12&height=80&section=footer&text=Objective-Dev%20•%20Rwanda" width="100%"/>
 </div>
