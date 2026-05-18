@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tresor 
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tresor 👋
 </h1>
 
 <p align="center">
@@ -18,7 +18,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tres9lo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/tres9lo?label=Followers&style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/tres9lo?label=Stars&style=for-the-badge" alt="Stars"/>
 </p>
 
 <!-- Animated Typing -->
@@ -107,16 +106,16 @@
 
 ---
 
-<!-- GitHub Stats - Fixed Version -->
+<!-- GitHub Stats - More Reliable Version -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tres9lo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="Tresor GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tres9lo&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" height="195" alt="Tresor Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tres9lo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="195" alt="Tresor Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tres9lo&theme=tokyonight&hide_border=true" height="195" alt="Tresor Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tres9lo&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tres9lo&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
@@ -129,7 +128,7 @@
   <img src="https://img.shields.io/badge/SaaS%20Products-4ECDC4?style=for-the-badge" alt="SaaS"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-45B8AC?style=for-the-badge" alt="Architecture"/>
   <img src="https://img.shields.io/badge/Modern%20UI%2FUX-96CEB4?style=for-the-badge" alt="UI/UX"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20%26%20Collaboration-FF9F1C?style=for-the-badge" alt="OSS"/>
+  <img src="https://img.shields.io/badge/Open%20Source-FF9F1C?style=for-the-badge" alt="OSS"/>
 </p>
 
 <br/>
