@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tresor 👋
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tresor 
 </h1>
 
 <p align="center">
@@ -110,12 +110,7 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tres9lo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="195" alt="Tresor Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tres9lo&theme=tokyonight&hide_border=true" height="195" alt="Tresor Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tres9lo&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
