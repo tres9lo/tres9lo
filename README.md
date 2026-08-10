@@ -10,7 +10,7 @@
   <a href="https://tresor-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://objective-dev.vercel.app" target="_blank">
+  <a href="https://glaunstudio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Company-Objective--Dev-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Company"/>
   </a>
 </p>
@@ -39,7 +39,7 @@
       </td>
       <td align="center" width="33%">
         <h3>🏢 Founder</h3>
-        <p>Leading <strong>Objective-Dev</strong> — building modern web products and SaaS platforms in East Africa.</p>
+        <p>Leading <strong>Glaun Studio</strong> — building modern web products and SaaS platforms in East Africa.</p>
       </td>
       <td align="center" width="33%">
         <h3>🌍 Visionary Builder</h3>
@@ -57,11 +57,11 @@
   <a href="https://tresor-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-tresor--dev.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://objective-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Objective--Dev-Company-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://glaunstudio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Glaun--Studio-Company-111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_objectiv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@_objectiv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-@_glaunstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
