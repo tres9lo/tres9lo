@@ -152,5 +152,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,12&height=80&section=footer&text=Objective-Dev%20•%20Rwanda" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,12&height=80&section=footer&text=Glaun%Studio%20•%20Rwanda" width="100%"/>
 </div>
