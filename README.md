@@ -26,7 +26,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://tresor-dev.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00E6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Founder+of+Objective-Dev;Crafting+Scalable+SaaS+Platforms;Building+the+Future+from+Rwanda;Clean+Architecture+%26+Modern+UX;Turning+Ideas+into+Production+Reality" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00E6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Founder+of+Glaun-Studio;Crafting+Scalable+SaaS+Platforms;Building+the+Future+from+Rwanda;Clean+Architecture+%26+Modern+UX;Turning+Ideas+into+Production+Reality" alt="Typing SVG"/>
   </a>
 </p>
 
