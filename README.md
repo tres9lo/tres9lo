@@ -10,9 +10,12 @@
   <a href="https://tresor-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://glaunstudio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Company-Glaun-Studio-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Company"/>
-  </a>
+<a href="https://glaunstudio.vercel.app" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Company-Glaun%20Studio-111?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Company"
+  />
+</a>
 </p>
 
 <p align="center">
