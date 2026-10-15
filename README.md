@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tres9lo&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+   <img src="https://streak-stats.demolab.com/?user=tres9lo&theme=tokyonight&hide_border=true&v=2" height="195" alt="Tresor Streak"/>
 </p>
 
 ---
