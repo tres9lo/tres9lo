@@ -111,12 +111,6 @@
 
 <!-- GitHub Stats - Using Fast & Stable Mirror -->
 <h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=tres9lo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="195" alt="Tresor Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tres9lo&theme=tokyonight&hide_border=true" height="195" alt="Tresor Streak"/>
-</p>
-
 <p align="center">
    <img src="https://streak-stats.demolab.com/?user=tres9lo&theme=tokyonight&hide_border=true&v=2" height="195" alt="Tresor Streak"/>
 </p>
