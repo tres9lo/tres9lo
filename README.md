@@ -10,12 +10,9 @@
   <a href="https://tresor-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-<a href="https://glaunstudio.vercel.app" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Company-Glaun%20Studio-111?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Company"
-  />
-</a>
+  <a href="https://glaunstudio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Company-Glaun%20Studio-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Company"/>
+  </a>
 </p>
 
 <p align="center">
@@ -30,7 +27,7 @@
   </a>
 </p>
 
-<hr style="border: 2px solid #00E6FF; border-radius: 5px;"/>
+---
 
 <!-- Bio Highlights -->
 <div align="center">
@@ -58,13 +55,13 @@
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
   <a href="https://tresor-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-tresor--dev.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-tresor--dev.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://glaunstudio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Glaun--Studio-Company-111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Glaun--Studio-Company-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Glaun Studio"/>
   </a>
   <a href="https://instagram.com/_objectiv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@_glaunstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-@__glaunstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -109,10 +106,25 @@
 
 ---
 
-<!-- GitHub Stats - Using Fast & Stable Mirror -->
+<!-- GitHub Analytics: only uses services that are stable (shields.io + ghchart), no self-hosted Vercel/Heroku stat cards -->
 <h3 align="center">📊 GitHub Analytics</h3>
+
 <p align="center">
-   <img src="https://streak-stats.demolab.com/?user=tres9lo&theme=tokyonight&hide_border=true&v=2" height="195" alt="Tresor Streak"/>
+  <a href="https://github.com/tres9lo?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftres9lo&query=%24.public_repos&label=Public%20Repos&color=00E6FF&labelColor=0d1117&style=for-the-badge&logo=github" alt="Public Repos"/>
+  </a>
+  <a href="https://github.com/tres9lo?tab=followers">
+    <img src="https://img.shields.io/github/followers/tres9lo?label=Followers&color=00E6FF&labelColor=0d1117&style=for-the-badge&logo=github" alt="Followers"/>
+  </a>
+  <a href="https://github.com/tres9lo?tab=following">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftres9lo&query=%24.following&label=Following&color=00E6FF&labelColor=0d1117&style=for-the-badge&logo=github" alt="Following"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tres9lo">
+    <img src="https://ghchart.rshah.org/00E6FF/tres9lo" alt="Tresor's GitHub contribution chart" width="95%"/>
+  </a>
 </p>
 
 ---
@@ -132,12 +144,11 @@
 
 ---
 
-
 <!-- Quote -->
-<blockquote align="center">
-  <p><strong>“Build systems, not just features.”</strong></p>
+<div align="center">
+  <h3><em>“Build systems, not just features.”</em></h3>
   <p>— BIKORIMANA Tresor</p>
-</blockquote>
+</div>
 
 ---
 
@@ -146,5 +157,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,12&height=80&section=footer&text=Glaun%Studio%20•%20Rwanda" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,12&height=80&section=footer&text=Glaun%20Studio%20%E2%80%A2%20Rwanda" width="100%"/>
 </div>
