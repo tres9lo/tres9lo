@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tres9lo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://hits.sh/github.com/tres9lo.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=0d1117" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/tres9lo?label=Followers&style=for-the-badge" alt="Followers"/>
 </p>
 
