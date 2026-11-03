@@ -1,161 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,12&height=280&section=header&text=BIKORIMANA%20Tresor&fontSize=50&fontAlignY=45&animation=fadeIn&desc=Founder%20of%20Glaun-Studio%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descSize=20" alt="Header" width="100%"/>
-</div>
+# Bikorimana Ange Tresor
 
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tresor 
-</h1>
+**Full-stack engineer · Founder of Glaun Studio**
+Kigali, Rwanda
 
-<p align="center">
-  <a href="https://tresor-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://glaunstudio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Company-Glaun%20Studio-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Company"/>
-  </a>
-</p>
+I build software that runs on the device it is installed on. Most of my work sits where product design meets systems engineering: offline-first mobile apps, local model inference, and the permissions layer that makes an assistant safe to point at real files.
 
-<p align="center">
-  <img src="https://hits.sh/github.com/tres9lo.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=0d1117" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/tres9lo?label=Followers&style=for-the-badge" alt="Followers"/>
-</p>
+I founded [Glaun Studio](https://glaunstudio.vercel.app) to ship those products, and I write the code myself — from the database schema and the API to the interface people actually touch.
 
-<!-- Animated Typing -->
-<p align="center">
-  <a href="https://tresor-dev.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=800&color=00E6FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Founder+of+Glaun-Studio;Crafting+Scalable+SaaS+Platforms;Building+the+Future+from+Rwanda;Clean+Architecture+%26+Modern+UX;Turning+Ideas+into+Production+Reality" alt="Typing SVG"/>
-  </a>
-</p>
+[**Portfolio**](https://tresor-dev.netlify.app) · [**LinkedIn**](https://www.linkedin.com/in/tresor-dev-biko-4671b6361) · [**Glaun Studio**](https://glaunstudio.vercel.app) · [**Email**](mailto:bikotreslo.99@gmail.com)
 
 ---
 
-<!-- Bio Highlights -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>💻 Tech Architect</h3>
-        <p>Passionate about designing <strong>scalable, maintainable systems</strong> that solve real problems.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🏢 Founder</h3>
-        <p>Leading <strong>Glaun Studio</strong> — building modern web products and SaaS platforms in East Africa.</p>
-      </td>
-      <td align="center" width="33%">
-        <h3>🌍 Visionary Builder</h3>
-        <p>Focused on clean code, exceptional UX, and impactful digital solutions from Kigali.</p>
-      </td>
-    </tr>
-  </table>
-</div>
+## Selected work
 
-<br/>
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**ClaireAI**](https://github.com/tres9lo/claireai) | A personal assistant that runs entirely on your machine. Local model inference, an append-only audit trail, and file/browser tools that cannot act without explicit approval. | Python · SQLite · Ollama |
+| [**E-State**](https://github.com/tres9lo/e-state-realty) | A six-page real-estate website for the Rwandan market: property search and filtering, gallery lightbox, pricing, and validated enquiry forms. | HTML · CSS · JavaScript |
+| [**Visit Musanze**](https://github.com/tres9lo/visit-musanze) | A five-page tourism site for Musanze District — the gateway to Volcanoes National Park — with an auto-playing hero slider and a responsive gallery. | HTML · CSS · JavaScript |
+| [**Student Records System**](https://github.com/tres9lo/student-records-system) | A Laravel application for school administration: student and course CRUD, bulk grade entry, attendance marking, and per-course attendance reports. | Laravel · PHP · Tailwind |
 
-<!-- Digital Presence -->
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
-  <a href="https://tresor-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-tresor--dev.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://glaunstudio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Glaun--Studio-Company-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Glaun Studio"/>
-  </a>
-  <a href="https://instagram.com/_objectiv" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@__glaunstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+**In development:** Kipit, an offline document vault for records you cannot afford to lose; Disko, a fully offline music player; Crust, a local-first mobile browser with no accounts or telemetry; and Imena, a stock and sales management system for small retailers.
+
+## How I work
+
+- **Local-first by default.** If a feature works without a network, it should. Cloud is a choice, not a prerequisite.
+- **The boundary is code, not a prompt.** When a model or a user can trigger a side effect, the validation, allow-list and audit trail live in the runtime.
+- **Ship the smallest honest version.** Every project above states what works and what does not — no screenshots of features that were never built.
+
+## Toolbox
+
+**Languages** — TypeScript, JavaScript, Python, PHP, Dart, SQL
+**Frontend** — React, Next.js, React Native / Expo, Tailwind CSS, Vite
+**Backend** — Node.js, Laravel, FastAPI, REST APIs
+**Data** — SQLite, MySQL, PostgreSQL, Supabase, Firebase
+**Platform** — Git, GitHub Actions, Vercel, Docker, Linux, Windows
+**Practice** — offline-first architecture, permission and audit design, accessibility, automated testing
+
+## Currently
+
+- Building **ClaireAI** — the permission layer and agent loop are done; the desktop shell is next.
+- Running **Glaun Studio**, shipping product work for clients across East Africa.
+- Open to collaboration on local-first tools, developer tooling, and offline mobile apps.
 
 ---
 
-<!-- Skills -->
-<h3 align="center">🛠️ Technologies & Tools</h3>
-
-**Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JS"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TS"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
-</p>
-
-**Frontend**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind"/>
-</p>
-
-**Backend & Database**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" alt="Supabase"/>
-</p>
-
-**Cloud & DevOps**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman"/>
-</p>
-
----
-
-<!-- GitHub Analytics: only uses services that are stable (shields.io + ghchart), no self-hosted Vercel/Heroku stat cards -->
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <a href="https://github.com/tres9lo?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftres9lo&query=%24.public_repos&label=Public%20Repos&color=00E6FF&labelColor=0d1117&style=for-the-badge&logo=github" alt="Public Repos"/>
-  </a>
-  <a href="https://github.com/tres9lo?tab=followers">
-    <img src="https://img.shields.io/github/followers/tres9lo?label=Followers&color=00E6FF&labelColor=0d1117&style=for-the-badge&logo=github" alt="Followers"/>
-  </a>
-  <a href="https://github.com/tres9lo?tab=following">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftres9lo&query=%24.following&label=Following&color=00E6FF&labelColor=0d1117&style=for-the-badge&logo=github" alt="Following"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tres9lo">
-    <img src="https://ghchart.rshah.org/00E6FF/tres9lo" alt="Tresor's GitHub contribution chart" width="95%"/>
-  </a>
-</p>
-
----
-
-<!-- Focus Areas -->
-<h3 align="center">🚀 Current Focus</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scalable%20Systems-FF6B6B?style=for-the-badge" alt="Systems"/>
-  <img src="https://img.shields.io/badge/SaaS%20Products-4ECDC4?style=for-the-badge" alt="SaaS"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-45B8AC?style=for-the-badge" alt="Architecture"/>
-  <img src="https://img.shields.io/badge/Modern%20UI%2FUX-96CEB4?style=for-the-badge" alt="UI/UX"/>
-  <img src="https://img.shields.io/badge/Open%20Source-FF9F1C?style=for-the-badge" alt="OSS"/>
-</p>
-
-<br/>
-
----
-
-<!-- Quote -->
-<div align="center">
-  <h3><em>“Build systems, not just features.”</em></h3>
-  <p>— BIKORIMANA Tresor</p>
-</div>
-
----
-
-<p align="center">
-  <i>Thank you for visiting my profile! Let's build something impactful together.</i>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,8,12&height=80&section=footer&text=Glaun%20Studio%20%E2%80%A2%20Rwanda" width="100%"/>
-</div>
+<sub>Kigali, Rwanda · Open to remote work and interesting problems.</sub>
