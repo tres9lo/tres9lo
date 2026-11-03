@@ -5,9 +5,9 @@ Kigali, Rwanda
 
 I build software that runs on the device it is installed on. Most of my work sits where product design meets systems engineering: offline-first mobile apps, local model inference, and the permissions layer that makes an assistant safe to point at real files.
 
-I founded [Glaun Studio](https://glaunstudio.vercel.app) to ship those products, and I write the code myself — from the database schema and the API to the interface people actually touch.
+I founded Glaun Studio to ship those products, and I write the code myself — from the database schema and the API to the interface people actually touch.
 
-[**Portfolio**](https://tresor-dev.netlify.app) · [**LinkedIn**](https://www.linkedin.com/in/tresor-dev-biko-4671b6361) · [**Glaun Studio**](https://glaunstudio.vercel.app) · [**Email**](mailto:bikotreslo.99@gmail.com)
+[**Portfolio**](https://tresor-dev.netlify.app) · [**LinkedIn**](https://www.linkedin.com/in/tresor-dev-biko-4671b6361) · [**Email**](mailto:bikotreslo.99@gmail.com)
 
 ---
 
