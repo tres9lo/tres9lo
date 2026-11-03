@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Kigali-Rwanda-0E7490?style=flat-square&logo=googlemaps&logoColor=white" alt="Kigali, Rwanda">
   <img src="https://img.shields.io/badge/available%20for%20projects-yes-16A34A?style=flat-square" alt="Available for projects">
-  <img src="https://img.shields.io/badge/reply%20time-within%2024h-6B7280?style=flat-square" alt="Replies within 24 hours">
 </p>
 
 ---
